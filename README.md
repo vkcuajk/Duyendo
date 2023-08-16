@@ -1,1 +1,1 @@
-# Duyendo
+# teals-python
